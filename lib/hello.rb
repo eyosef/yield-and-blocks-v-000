@@ -7,6 +7,9 @@ def hello_t(array)
     i = i + 1
   end #while loop
   array
+else 
+  puts  "Hey! No block was given!"
+  end
 end #method
 
 # call your method here!
